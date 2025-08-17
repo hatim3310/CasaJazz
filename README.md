@@ -215,48 +215,7 @@ casajazz-festival/
 
 ---
 
-## 📸 **Screenshots**
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏠 **Hero Section**
-<img src="screenshots/hero.png" alt="Hero Section" />
-
-*Page d'accueil avec animation de fond et CTA*
-
-</td>
-<td width="50%">
-
-### 🎫 **Billetterie**
-<img src="screenshots/tickets.png" alt="Billetterie" />
-
-*Système de réservation avec 3 catégories*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎸 **Artistes**
-<img src="screenshots/artists.png" alt="Artistes" />
-
-*Grille des artistes avec effets interactifs*
-
-</td>
-<td width="50%">
-
-### 📅 **Programme**
-<img src="screenshots/schedule.png" alt="Programme" />
-
-*Planning détaillé sur 3 jours*
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🚀 **Fonctionnalités Techniques**
 
@@ -379,3 +338,4 @@ cartManager.addItem({ id: 'vip-pass', quantity: 2 });
 **© 2021 CasaJazz Festival - Tous droits réservés**
 
 </div>
+

@@ -14,7 +14,7 @@
 ### 🎺 **Festival International de Jazz à Casablanca**
 *Plateforme de billetterie en ligne pour l'événement jazz majeur du Maroc*
 
-[Voir la Demo](https://casajazz-demo.com) • [Documentation](docs/) • [Screenshots](#screenshots)
+[Voir la Demo](https://casajazz.vercel.app/)
 
 </div>
 
@@ -27,11 +27,10 @@
 - [Technologies](#-technologies)
 - [Installation](#-installation)
 - [Structure du Projet](#-structure-du-projet)
-- [Screenshots](#-screenshots)
 - [Apprentissages](#-apprentissages)
 - [Améliorations Futures](#-améliorations-futures)
 - [Auteur](#-auteur)
-- [Licence](#-licence)
+
 
 ---
 
@@ -338,4 +337,5 @@ cartManager.addItem({ id: 'vip-pass', quantity: 2 });
 **© 2021 CasaJazz Festival - Tous droits réservés**
 
 </div>
+
 
